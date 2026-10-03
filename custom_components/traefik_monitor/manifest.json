@@ -1,0 +1,14 @@
+{
+  "domain": "traefik_monitor",
+  "name": "Traefik Monitor",
+  "version": "0.1.0",
+  "documentation": "https://github.com/REPLACE_OWNER/traefik-monitor",
+  "issue_tracker": "https://github.com/REPLACE_OWNER/traefik-monitor/issues",
+  "codeowners": [],
+  "config_flow": true,
+  "integration_type": "hub",
+  "iot_class": "local_polling",
+  "requirements": [
+    "cryptography>=42.0.0"
+  ]
+}
